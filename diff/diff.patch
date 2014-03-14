@@ -1,0 +1,11 @@
+--- file1.txt	2014-03-14 16:59:29.000000000 -0400
++++ file2.txt	2014-03-14 16:59:49.000000000 -0400
+@@ -1,6 +1,7 @@
++Saturday
++Sunday
+ Monday
+ Tuesday
+ Wednesday
+ Thursday
+ Friday
+-
