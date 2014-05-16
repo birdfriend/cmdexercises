@@ -1,7 +1,7 @@
-hello
+hello, EQ
 
 
-how are you?
+how are you, EQ?
 
-have a nice day
+have a nice day, EQ!
 
